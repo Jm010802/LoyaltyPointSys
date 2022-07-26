@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "RewardPoints/1.0.0": {
+        "dependencies": {
+          "AppLayer": "1.0.0",
+          "DataLayer": "1.0.0"
+        },
+        "runtime": {
+          "RewardPoints.dll": {}
+        }
+      },
+      "AppLayer/1.0.0": {
+        "runtime": {
+          "AppLayer.dll": {}
+        }
+      },
+      "DataLayer/1.0.0": {
+        "runtime": {
+          "DataLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RewardPoints/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

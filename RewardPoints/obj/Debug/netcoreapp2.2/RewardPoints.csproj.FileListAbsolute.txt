@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\bin\Debug\netcoreapp2.2\RewardPoints.deps.json
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\bin\Debug\netcoreapp2.2\RewardPoints.runtimeconfig.json
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\bin\Debug\netcoreapp2.2\RewardPoints.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\bin\Debug\netcoreapp2.2\RewardPoints.dll
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\bin\Debug\netcoreapp2.2\RewardPoints.pdb
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\obj\Debug\netcoreapp2.2\RewardPoints.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\obj\Debug\netcoreapp2.2\RewardPoints.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\obj\Debug\netcoreapp2.2\RewardPoints.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\obj\Debug\netcoreapp2.2\RewardPoints.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\obj\Debug\netcoreapp2.2\RewardPoints.dll
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\obj\Debug\netcoreapp2.2\RewardPoints.pdb
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\bin\Debug\netcoreapp2.2\AppLayer.dll
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\bin\Debug\netcoreapp2.2\AppLayer.pdb
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\obj\Debug\netcoreapp2.2\RewardPoints.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\ADMIN\source\repos\RewardPoints\RewardPoints\bin\Debug\netcoreapp2.2\DataLayer.pdb
